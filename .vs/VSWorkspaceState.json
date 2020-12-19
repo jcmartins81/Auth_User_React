@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\pages",
+    "\\src\\pages\\home",
+    "\\src\\pages\\login",
+    "\\src\\pages\\register"
+  ],
+  "SelectedNode": "\\src\\pages\\register\\Register.js",
+  "PreviewInSolutionExplorer": false
+}
